@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Стек технологий 
-<>
+<!--
+-->
 
 Анализ данных:
 * SQL (PostgreSQL, ClickHouse);
