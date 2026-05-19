@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 -->
 
 ### Стек технологий 
-<!--
--->
-*Анализ данных:* SQL (CTE, оконные функции, JOIN), Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels).
+---
+**Анализ данных:** SQL (CTE, оконные функции, JOIN), Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels).
 
-*Визуализация и BI:* Yandex DataLens (5+ дашбордов), Apache Superset (3+ дашборда).
+**Визуализация и BI:** Yandex DataLens (5+ дашбордов), Apache Superset (3+ дашборда).
 
-*СУБД:* PostgreSQL, ClickHouse.
+**СУБД:** PostgreSQL, ClickHouse.
 
-*Инструменты:* Jupyter Notebook, DBeaver, Google Sheets, Excel.
+**Инструменты:** Jupyter Notebook, DBeaver, Google Sheets, Excel.
 
-*Веб‑аналитика:* Google Analytics, Яндекс Метрика.
+**Веб‑аналитика:** Google Analytics, Яндекс Метрика.
 
-*SEO‑инструменты:* Ahrefs, Majestic, Netpeak Checker, Key Collector.
+**SEO‑инструменты:** Ahrefs, Majestic, Netpeak Checker, Key Collector.
 
