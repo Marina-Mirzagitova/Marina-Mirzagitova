@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 * Jupyter Notebook, DBeaver.
 
 Визуализация и BI: Yandex DataLens, SuperSet.
+
 Бизнес‑инструменты: Excel, Google Sheets, Word, PowerPoint.
