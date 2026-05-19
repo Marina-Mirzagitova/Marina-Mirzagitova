@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Аналитик данных
+
+# Стек технологий 
+Анализ данных:
+* SQL (PostgreSQL, ClickHouse);
+* Python: pandas, numpy, matplotlib, seaborn, scipy, statsmodels;
+* Jupyter Notebook, DBeaver.
+Визуализация и BI: Yandex DataLens, SuperSet.
+Бизнес‑инструменты: Excel, Google Sheets, Word, PowerPoint.
